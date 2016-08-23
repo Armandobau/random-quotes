@@ -1,0 +1,24 @@
+body{
+    background-color: cornflowerblue;
+}
+
+#title{
+    color: antiquewhite;
+}
+
+#content {
+    margin-top: 50px;
+    padding: 0px 10px 20px 10px;
+    background: white;
+    color: cornflowerblue;
+    border-radius: 5px;
+}
+
+#quote{
+    font-size: 1.7em;
+}
+
+.btn {
+    background-color: cornflowerblue;
+    color: antiquewhite !important;
+}
